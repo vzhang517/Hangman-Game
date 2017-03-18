@@ -71,7 +71,7 @@ document.onkeyup = function(event) {
 	
 
 	if(lives === 6){
-		window.alert("Uh...I guess you're dead now.");
+		window.alert("Caffeine crash...");
 	}
 }
 
